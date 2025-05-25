@@ -1,0 +1,1 @@
+'''Pulls from REST API/mock logs'''

@@ -100,7 +100,6 @@ A full-stack platform that automates threat data ingestion, blocks IPs based on 
 
 ### Frontend
 - React + Vite
-- Tailwind CSS
 - Material UI
 - Chart.js
 
@@ -135,7 +134,6 @@ A full-stack platform that automates threat data ingestion, blocks IPs based on 
 - test_ingestion.py
 - test_detection.py
 ### frontend
-- tailwind.config.js
 - vite.config.js
 - package.json
 #### public
