@@ -97,6 +97,7 @@ A full-stack platform that automates threat data ingestion, blocks IPs based on 
 - httpx
 - SciKit-learn
 - python-dotenv
+- uvicorn
 
 ### Frontend
 - React + Vite
