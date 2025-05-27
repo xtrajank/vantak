@@ -1,1 +1,1 @@
-'''SQLAlchemy models'''
+'''SQLAlchemy models / table schemas'''

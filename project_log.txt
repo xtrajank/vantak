@@ -1,0 +1,15 @@
+5-24-25
+--------
+- Created "vantak" repo
+- Created "vantak" project (GitHub)
+	- Created all to-dos
+- Created app framework
+	- all predicted files installed
+	
+5-25-25
+--------
+- Installed and began learning postgres
+	- Created "vantakdb""
+	- Created "vantakowner" login
+	- Added db credentials to .env
+	- Connected to app in connection.py

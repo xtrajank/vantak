@@ -1,2 +1,5 @@
 # venv
 /venv
+
+# env
+/backend/vantak.env
